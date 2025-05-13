@@ -13,3 +13,10 @@ https://docs.google.com/spreadsheets/d/13oNsk9gy6pnbmoxeqt52lxmGVZd67z-HgB6RrPOM
 ## 10 тест-кейсов для проверки Cart Management и 10 тест-кейсов на Order Management
 
 https://github.com/LeviIos/Web/blob/main/Тестовы%20набор%20для%20Cart%2C%20Order%20Doroshev.pdf
+
+
+## Тестовый прогон и отчет о дефектах для Cart Management и Order Management
+
+Тестовый прогон: https://github.com/LeviIos/Web/blob/main/Тестовы%20набор%20для%20Cart%2C%20Order%20Doroshev.pdf
+
+Отчет о дефектах: https://github.com/LeviIos/Web/blob/main/Issues-6.Doroshev.numbers
