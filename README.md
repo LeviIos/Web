@@ -20,3 +20,7 @@ https://github.com/LeviIos/Web/blob/main/Тестовы%20набор%20для%20
 Тестовый прогон: https://github.com/LeviIos/Web/blob/main/Тестовы%20набор%20для%20Cart%2C%20Order%20Doroshev.pdf
 
 Отчет о дефектах: https://github.com/LeviIos/Web/blob/main/Issues-6.Doroshev.numbers
+
+## Создание простой веб-страницы
+
+https://drive.google.com/file/d/18_yi6u_NSai2T1SiGEHIuJkjZOtlmabj/view
