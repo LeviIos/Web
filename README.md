@@ -25,3 +25,7 @@ https://drive.google.com/file/d/18_yi6u_NSai2T1SiGEHIuJkjZOtlmabj/view
 Тестовый прогон: https://github.com/LeviIos/Web/blob/main/Тестовы%20набор%20для%20Cart%2C%20Order%20Doroshev.pdf
 
 Отчет о дефектах: https://github.com/LeviIos/Web/blob/main/Issues-7Doroshev1.numbers
+
+## Charles Proxy Перехватываем и изменяем трафик macOS 
+
+https://drive.google.com/file/d/1WEJtcuWV26vgNiZPeTmsEWKVEml3yuCR/view?usp=sharing
